@@ -12,21 +12,21 @@ const projects = [
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+   title: "AI Meal plan Generator",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
+      "A smart AI-powered app that generates personalized meal plans based on user preferences, dietary goals, and nutritional needs. Built using Next.js, OpenAI API, and visualized with D3.js for an interactive user experience.",
     image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
+    tags: ["TypeScript", "D3.js", "Next.js", "Open AI", "Stripe"],
     demoUrl: "#",
     githubUrl: "#",
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "AI Mock Interview Platform",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
+      "An AI-driven voice interview platform that simulates real interview scenarios. Features voice interaction, response evaluation, and seamless Stripe integration for premium access. Built with React and Node.js.",
+    image: "",
+    tags: ["Vapi", "Next.js", "Firebase", "Tailwind"],
     demoUrl: "#",
     githubUrl: "#",
   },
